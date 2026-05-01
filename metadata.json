@@ -1,0 +1,12 @@
+{
+  "name": "LEXVOTO",
+  "description": "Inteligência Jurídica Eleitoral para Blindagem de Campanhas. Consultoria com IA, verificação de propaganda e gestão de conformidade em tempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "AI Consultation",
+    "Legal Document Verification",
+    "Electoral Compliance Dashboard"
+  ]
+}
